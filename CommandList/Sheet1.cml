@@ -1,0 +1,4 @@
+command,delay
+test cmd1,20
+test cmd2,10
+test cmd3,10
